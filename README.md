@@ -22,7 +22,7 @@
 
 Для налаштування доступу до віддаленого репозиторію через SSH, створимо SSH ключ.
 
-![key](https://github.com/ViktorPrystai/DevOps-PNU/blob/master/Screenshots/add%20gitignore.jpg)  
+![key](https://github.com/ViktorPrystai/DevOps-PNU/blob/master/Screenshots/SSHkey.jpg)  
 ![keygit](https://github.com/ViktorPrystai/DevOps-PNU/blob/master/Screenshots/Add%20into%20github.jpg)
 
 ## 5. Додаємо і комітимо наші зміни
