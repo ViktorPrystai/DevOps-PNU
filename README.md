@@ -1,25 +1,45 @@
 # Lab 1 Tasks
-Створити локальний git репозиторій з будь-якими файлами всередині. Налаштувати .gitignore. Створити на сервері https://github.com/ віддалений репозиторій і підключити його до локального репозиторію. Налаштувати доступ до репозиторію через SSH. Зробити кілька комітів. Відкотити останній коміт.
-### 
-- **Tasks**
-  - Cтворення локального репо
-    ![CreateRepo](https://github.com/ViktorPrystai/DevOps-PNU/blob/master/Screenshots/createrepo.jpg)
 
-  - Створення файлів
-    ![CreateFiles](https://github.com/ViktorPrystai/DevOps-PNU/blob/master/Screenshots/createfiles.jpg)
+## 1. Створення локального репозиторію
 
-  - Додавання .gitignore
-    ![Add gitignore](https://github.com/ViktorPrystai/DevOps-PNU/blob/master/Screenshots/add%20gitignore.jpg)
+Для початку створимо локальний git репозиторій з будь-якими файлами всередині.
 
-  - Створення SSH key 
-    ![key](https://github.com/ViktorPrystai/DevOps-PNU/blob/master/Screenshots/add%20gitignore.jpg)
-    ![keygit](https://github.com/ViktorPrystai/DevOps-PNU/blob/master/Screenshots/Add%20into%20github.jpg)
+![CreateRepo](https://github.com/ViktorPrystai/DevOps-PNU/blob/master/Screenshots/createrepo.jpg)
 
-  - Додаємо і комітимо наші зміни
-    ![con](https://github.com/ViktorPrystai/DevOps-PNU/blob/master/Screenshots/commit.jpg)
+## 2. Створення файлів
 
-  - Підключаємо локальний репозиторій до віддаленого на GitHub
-    ![push](https://github.com/ViktorPrystai/DevOps-PNU/blob/master/Screenshots/push.jpg)
+Додаємо необхідні файли до нашого локального репозиторію.
 
-  - Робимо відкат останнього коміту
-    ![reset](https://github.com/ViktorPrystai/DevOps-PNU/blob/master/Screenshots/reset%20last%20commit.jpg)
+![CreateFiles](https://github.com/ViktorPrystai/DevOps-PNU/blob/master/Screenshots/createfiles.jpg)
+
+## 3. Додавання .gitignore
+
+Налаштуємо файл `.gitignore`, щоб виключити з репозиторію непотрібні файли.
+
+![Add gitignore](https://github.com/ViktorPrystai/DevOps-PNU/blob/master/Screenshots/add%20gitignore.jpg)
+
+## 4. Створення SSH ключа
+
+Для налаштування доступу до віддаленого репозиторію через SSH, створимо SSH ключ.
+
+![key](https://github.com/ViktorPrystai/DevOps-PNU/blob/master/Screenshots/add%20gitignore.jpg)  
+![keygit](https://github.com/ViktorPrystai/DevOps-PNU/blob/master/Screenshots/Add%20into%20github.jpg)
+
+## 5. Додаємо і комітимо наші зміни
+
+Додаємо файли до стейджу і комітимо наші зміни.
+
+![con](https://github.com/ViktorPrystai/DevOps-PNU/blob/master/Screenshots/commit.jpg)
+
+## 6. Підключаємо локальний репозиторій до віддаленого на GitHub
+
+З’єднуємо наш локальний репозиторій з віддаленим репозиторієм на GitHub.
+
+![push](https://github.com/ViktorPrystai/DevOps-PNU/blob/master/Screenshots/push.jpg)
+
+## 7. Робимо відкат останнього коміту
+
+Якщо потрібно, можемо відкотити останній коміт.
+
+![reset](https://github.com/ViktorPrystai/DevOps-PNU/blob/master/Screenshots/reset%20last%20commit.jpg)
+
