@@ -27,7 +27,7 @@
 
 ## 5. Додаємо і комітимо наші зміни
 
-Додаємо файли до стейджу і комітимо наші зміни.
+Додаємо усі файли і комітимо наші зміни.
 
 ![con](https://github.com/ViktorPrystai/DevOps-PNU/blob/master/Screenshots/commit.jpg)
 
